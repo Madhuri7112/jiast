@@ -1,0 +1,5 @@
+JIRA_SERVER   = "server"      # eg : https://company.atlassian.net
+JIRA_USERNAME = "username"
+JIRA_PASSWORD = "password"
+PROJECT       = "project"
+SPRINT        = "sprint"
